@@ -6,7 +6,7 @@ html {
   box-sizing: inherit;
 }
 
-.ball{
+.ball {
   width: 100px;
   height: 100px;
   position: absolute;
